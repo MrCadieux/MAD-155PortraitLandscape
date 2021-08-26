@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PortraitLandscape</string>
+    <string name="editNameHint">Enter your Name</string>
+    <string name="editPositionHint">Enter your Position</string>
+    <string name="outputButton">Display Information</string>
+</resources>
